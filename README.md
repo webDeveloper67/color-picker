@@ -1,5 +1,5 @@
 ## Live preview
-You can see the live preview of the project by clicking in this link
+You can see the live preview of the project by clicking in this link [https://webdeveloper67.github.io/color-picker/](https://webdeveloper67.github.io/color-picker/)
 
 ## Available Scripts
 
